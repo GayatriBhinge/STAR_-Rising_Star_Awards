@@ -6,9 +6,9 @@ Capgemini admires me, saying, 'You have received this award in appreciation of y
 
 ##As token of our appreciation I received below e-certificates.
 
-![App Screenshot](https://github.com/GayatriBhinge/STAR_-Rising_Star_Awards/blob/main/46075487_217844.pdf)
+![App Screenshot](https://github.com/GayatriBhinge/STAR_-Rising_Star_Awards/blob/main/1.PNG)
 
-![App Screenshot](https://github.com/GayatriBhinge/STAR_-Rising_Star_Awards/blob/main/46075487_238900.pdf)
+![App Screenshot](https://github.com/GayatriBhinge/STAR_-Rising_Star_Awards/blob/main/2.PNG)
 
 
 
